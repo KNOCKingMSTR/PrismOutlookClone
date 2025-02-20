@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\ayush.chauhan\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.12.3</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\ayush.chauhan\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_Xaml_Behaviors_Wpf Condition=" '$(PkgMicrosoft_Xaml_Behaviors_Wpf)' == '' ">C:\Users\ayush.chauhan\.nuget\packages\microsoft.xaml.behaviors.wpf\1.1.31</PkgMicrosoft_Xaml_Behaviors_Wpf>
+    <PkgInfragistics_WPF_Trial Condition=" '$(PkgInfragistics_WPF_Trial)' == '' ">C:\Users\ayush.chauhan\.nuget\packages\infragistics.wpf.trial\24.2.53</PkgInfragistics_WPF_Trial>
+    <PkgInfragistics_WPF_Editors_Trial Condition=" '$(PkgInfragistics_WPF_Editors_Trial)' == '' ">C:\Users\ayush.chauhan\.nuget\packages\infragistics.wpf.editors.trial\24.2.53</PkgInfragistics_WPF_Editors_Trial>
+    <PkgInfragistics_WPF_Ribbon_Trial Condition=" '$(PkgInfragistics_WPF_Ribbon_Trial)' == '' ">C:\Users\ayush.chauhan\.nuget\packages\infragistics.wpf.ribbon.trial\24.2.53</PkgInfragistics_WPF_Ribbon_Trial>
+    <PkgInfragistics_WPF_OutlookBar_Trial Condition=" '$(PkgInfragistics_WPF_OutlookBar_Trial)' == '' ">C:\Users\ayush.chauhan\.nuget\packages\infragistics.wpf.outlookbar.trial\24.2.53</PkgInfragistics_WPF_OutlookBar_Trial>
+  </PropertyGroup>
+</Project>

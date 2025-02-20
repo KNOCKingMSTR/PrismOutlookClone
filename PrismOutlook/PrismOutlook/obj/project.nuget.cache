@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "k+CnVUM0Ukk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\PrismOutlook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.editors.trial\\24.2.53\\infragistics.wpf.editors.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.outlookbar.trial\\24.2.53\\infragistics.wpf.outlookbar.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.ribbon.trial\\24.2.53\\infragistics.wpf.ribbon.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.themes.office2013.trial\\24.2.53\\infragistics.wpf.themes.office2013.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.trial\\24.2.53\\infragistics.wpf.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\prism.unity\\8.1.97\\prism.unity.8.1.97.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

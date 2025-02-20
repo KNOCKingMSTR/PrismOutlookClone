@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Infragistics.WPF.OutlookBar.Trial" Version="24.2.53" />
+    <PackageReference Include="Infragistics.WPF.Ribbon.Trial" Version="24.2.53" />
+    <PackageReference Include="Prism.Wpf" Version="8.1.97" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PrismOutlook\PrismOutlook.Core\PrismOutlook.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Menus\ContactsGroup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

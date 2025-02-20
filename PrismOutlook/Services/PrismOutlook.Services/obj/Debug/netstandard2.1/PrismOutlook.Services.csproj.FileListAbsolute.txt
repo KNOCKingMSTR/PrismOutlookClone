@@ -1,0 +1,13 @@
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\bin\Debug\netstandard2.1\PrismOutlook.Services.deps.json
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\bin\Debug\netstandard2.1\PrismOutlook.Services.dll
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\bin\Debug\netstandard2.1\PrismOutlook.Services.pdb
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\bin\Debug\netstandard2.1\PrismOutlook.Services.Interfaces.dll
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\bin\Debug\netstandard2.1\PrismOutlook.Services.Interfaces.pdb
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.csproj.AssemblyReference.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.AssemblyInfoInputs.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.AssemblyInfo.cs
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.csproj.CoreCompileInputs.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOut.CC3CE0EE.Up2Date
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.dll
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.pdb

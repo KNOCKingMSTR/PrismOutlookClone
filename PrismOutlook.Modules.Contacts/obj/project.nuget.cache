@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "gP8ZNTHr9KE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.editors.trial\\24.2.53\\infragistics.wpf.editors.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.outlookbar.trial\\24.2.53\\infragistics.wpf.outlookbar.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.ribbon.trial\\24.2.53\\infragistics.wpf.ribbon.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.trial\\24.2.53\\infragistics.wpf.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

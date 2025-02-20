@@ -1,0 +1,12 @@
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\bin\Debug\net6.0-windows\PrismOutlook.Core.deps.json
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\bin\Debug\net6.0-windows\PrismOutlook.Core.dll
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\bin\Debug\net6.0-windows\PrismOutlook.Core.pdb
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.csproj.AssemblyReference.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.AssemblyInfoInputs.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.AssemblyInfo.cs
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.csproj.CoreCompileInputs.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.dll
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\refint\PrismOutlook.Core.dll
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.pdb
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\ref\PrismOutlook.Core.dll

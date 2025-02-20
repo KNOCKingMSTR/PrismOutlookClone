@@ -1,0 +1,474 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Infragistics.WPF.Editors.Trial/24.2.53": {
+        "type": "package",
+        "dependencies": {
+          "Infragistics.WPF.Trial": "[24.2.53]"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.Editors.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.Editors.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "resource": {
+          "lib/net6.0-windows7.0/de/Infragistics.WPF.Editors.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/Infragistics.WPF.Editors.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/Infragistics.WPF.Editors.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.Editors.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Infragistics.WPF.Ribbon.Trial/24.2.53": {
+        "type": "package",
+        "dependencies": {
+          "Infragistics.WPF.Editors.Trial": "[24.2.53]",
+          "Infragistics.WPF.Trial": "[24.2.53]"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.Ribbon.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.Ribbon.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "resource": {
+          "lib/net6.0-windows7.0/de/Infragistics.WPF.Ribbon.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/Infragistics.WPF.Ribbon.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/Infragistics.WPF.Ribbon.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.Ribbon.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Infragistics.WPF.Trial/24.2.53": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "resource": {
+          "lib/net6.0-windows7.0/de/Infragistics.WPF.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/Infragistics.WPF.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/Infragistics.WPF.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.31": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Prism.Core/8.1.97": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Prism.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Prism.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Prism.Wpf/8.1.97": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.31",
+          "Prism.Core": "8.1.97"
+        },
+        "compile": {
+          "lib/net5.0-windows7.0/Prism.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Prism.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Infragistics.WPF.Editors.Trial/24.2.53": {
+      "sha512": "b2Ljmjo7ipsBjl3PUjtqLRD5nUpC5m2r6ytThYVoSVNOoM8vn2Pg8Fhfr3qKCOsWi169cv2QGlpVVoJH/BJhzg==",
+      "type": "package",
+      "path": "infragistics.wpf.editors.trial/24.2.53",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "infragistics.wpf.editors.trial.24.2.53.nupkg.sha512",
+        "infragistics.wpf.editors.trial.nuspec",
+        "lib/net40/Design/InfragisticsWPF.Editors.DesignTools.dll",
+        "lib/net40/InfragisticsWPF.Editors.dll",
+        "lib/net40/InfragisticsWPF.Editors.xml",
+        "lib/net40/de/InfragisticsWPF.Editors.resources.dll",
+        "lib/net40/es/InfragisticsWPF.Editors.resources.dll",
+        "lib/net40/fr/InfragisticsWPF.Editors.resources.dll",
+        "lib/net40/ja/InfragisticsWPF.Editors.resources.dll",
+        "lib/net40/ja/InfragisticsWPF.Editors.xml",
+        "lib/net6.0-windows7.0/Design/Infragistics.WPF.Editors.DesignTools.dll",
+        "lib/net6.0-windows7.0/Infragistics.WPF.Editors.deps.json",
+        "lib/net6.0-windows7.0/Infragistics.WPF.Editors.dll",
+        "lib/net6.0-windows7.0/Infragistics.WPF.Editors.xml",
+        "lib/net6.0-windows7.0/de/Infragistics.WPF.Editors.resources.dll",
+        "lib/net6.0-windows7.0/es/Infragistics.WPF.Editors.resources.dll",
+        "lib/net6.0-windows7.0/fr/Infragistics.WPF.Editors.resources.dll",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.Editors.resources.dll",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.Editors.xml",
+        "lib/net8.0-windows7.0/Design/Infragistics.WPF.Editors.DesignTools.dll",
+        "lib/net8.0-windows7.0/Infragistics.WPF.Editors.deps.json",
+        "lib/net8.0-windows7.0/Infragistics.WPF.Editors.dll",
+        "lib/net8.0-windows7.0/Infragistics.WPF.Editors.xml",
+        "lib/net8.0-windows7.0/de/Infragistics.WPF.Editors.resources.dll",
+        "lib/net8.0-windows7.0/es/Infragistics.WPF.Editors.resources.dll",
+        "lib/net8.0-windows7.0/fr/Infragistics.WPF.Editors.resources.dll",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.Editors.resources.dll",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.Editors.xml",
+        "lib/net9.0-windows7.0/Design/Infragistics.WPF.Editors.DesignTools.dll",
+        "lib/net9.0-windows7.0/Infragistics.WPF.Editors.deps.json",
+        "lib/net9.0-windows7.0/Infragistics.WPF.Editors.dll",
+        "lib/net9.0-windows7.0/Infragistics.WPF.Editors.xml",
+        "lib/net9.0-windows7.0/de/Infragistics.WPF.Editors.resources.dll",
+        "lib/net9.0-windows7.0/es/Infragistics.WPF.Editors.resources.dll",
+        "lib/net9.0-windows7.0/fr/Infragistics.WPF.Editors.resources.dll",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.Editors.resources.dll",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.Editors.xml",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Infragistics.WPF.Ribbon.Trial/24.2.53": {
+      "sha512": "YI0YQCFB3LGTl6tM1GsUa0QIt/TQw0YxtPFbbiGIfdMkJ35gq37RE5WSsNl4rvKNGZMyqn1h5WuTjZfAj/GuoQ==",
+      "type": "package",
+      "path": "infragistics.wpf.ribbon.trial/24.2.53",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "infragistics.wpf.ribbon.trial.24.2.53.nupkg.sha512",
+        "infragistics.wpf.ribbon.trial.nuspec",
+        "lib/net40/Design/InfragisticsWPF.Ribbon.DesignTools.dll",
+        "lib/net40/InfragisticsWPF.Ribbon.XML",
+        "lib/net40/InfragisticsWPF.Ribbon.dll",
+        "lib/net40/de/InfragisticsWPF.Ribbon.resources.dll",
+        "lib/net40/es/InfragisticsWPF.Ribbon.resources.dll",
+        "lib/net40/fr/InfragisticsWPF.Ribbon.resources.dll",
+        "lib/net40/ja/InfragisticsWPF.Ribbon.resources.dll",
+        "lib/net40/ja/InfragisticsWPF.Ribbon.xml",
+        "lib/net6.0-windows7.0/Design/Infragistics.WPF.Ribbon.DesignTools.dll",
+        "lib/net6.0-windows7.0/Infragistics.WPF.Ribbon.deps.json",
+        "lib/net6.0-windows7.0/Infragistics.WPF.Ribbon.dll",
+        "lib/net6.0-windows7.0/Infragistics.WPF.Ribbon.xml",
+        "lib/net6.0-windows7.0/de/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net6.0-windows7.0/es/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net6.0-windows7.0/fr/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.Ribbon.xml",
+        "lib/net8.0-windows7.0/Design/Infragistics.WPF.Ribbon.DesignTools.dll",
+        "lib/net8.0-windows7.0/Infragistics.WPF.Ribbon.deps.json",
+        "lib/net8.0-windows7.0/Infragistics.WPF.Ribbon.dll",
+        "lib/net8.0-windows7.0/Infragistics.WPF.Ribbon.xml",
+        "lib/net8.0-windows7.0/de/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net8.0-windows7.0/es/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net8.0-windows7.0/fr/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.Ribbon.xml",
+        "lib/net9.0-windows7.0/Design/Infragistics.WPF.Ribbon.DesignTools.dll",
+        "lib/net9.0-windows7.0/Infragistics.WPF.Ribbon.deps.json",
+        "lib/net9.0-windows7.0/Infragistics.WPF.Ribbon.dll",
+        "lib/net9.0-windows7.0/Infragistics.WPF.Ribbon.xml",
+        "lib/net9.0-windows7.0/de/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net9.0-windows7.0/es/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net9.0-windows7.0/fr/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.Ribbon.resources.dll",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.Ribbon.xml",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Infragistics.WPF.Trial/24.2.53": {
+      "sha512": "NEv+gVW3nvU8QvRWfS+BuGXCBQZVs5F6n6ZsfgsjKhykEaAsns4JMqCW+vThQUF/SM5oO07EI1ZBnGZtE73fhw==",
+      "type": "package",
+      "path": "infragistics.wpf.trial/24.2.53",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "infragistics.wpf.trial.24.2.53.nupkg.sha512",
+        "infragistics.wpf.trial.nuspec",
+        "lib/net40/Design/InfragisticsWPF.DesignTools.SmartTag.dll",
+        "lib/net40/Design/InfragisticsWPF.DesignTools.dll",
+        "lib/net40/InfragisticsWPF.dll",
+        "lib/net40/InfragisticsWPF.xml",
+        "lib/net40/de/InfragisticsWPF.resources.dll",
+        "lib/net40/es/InfragisticsWPF.resources.dll",
+        "lib/net40/fr/InfragisticsWPF.resources.dll",
+        "lib/net40/ja/InfragisticsWPF.resources.dll",
+        "lib/net40/ja/InfragisticsWPF.xml",
+        "lib/net6.0-windows7.0/Design/Infragistics.WPF.DesignTools.SmartTag.dll",
+        "lib/net6.0-windows7.0/Design/Infragistics.WPF.DesignTools.dll",
+        "lib/net6.0-windows7.0/Infragistics.WPF.deps.json",
+        "lib/net6.0-windows7.0/Infragistics.WPF.dll",
+        "lib/net6.0-windows7.0/Infragistics.WPF.xml",
+        "lib/net6.0-windows7.0/de/Infragistics.WPF.resources.dll",
+        "lib/net6.0-windows7.0/es/Infragistics.WPF.resources.dll",
+        "lib/net6.0-windows7.0/fr/Infragistics.WPF.resources.dll",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.resources.dll",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.xml",
+        "lib/net8.0-windows7.0/Design/Infragistics.WPF.DesignTools.SmartTag.dll",
+        "lib/net8.0-windows7.0/Design/Infragistics.WPF.DesignTools.dll",
+        "lib/net8.0-windows7.0/Infragistics.WPF.deps.json",
+        "lib/net8.0-windows7.0/Infragistics.WPF.dll",
+        "lib/net8.0-windows7.0/Infragistics.WPF.xml",
+        "lib/net8.0-windows7.0/de/Infragistics.WPF.resources.dll",
+        "lib/net8.0-windows7.0/es/Infragistics.WPF.resources.dll",
+        "lib/net8.0-windows7.0/fr/Infragistics.WPF.resources.dll",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.resources.dll",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.xml",
+        "lib/net9.0-windows7.0/Design/Infragistics.WPF.DesignTools.SmartTag.dll",
+        "lib/net9.0-windows7.0/Design/Infragistics.WPF.DesignTools.dll",
+        "lib/net9.0-windows7.0/Infragistics.WPF.deps.json",
+        "lib/net9.0-windows7.0/Infragistics.WPF.dll",
+        "lib/net9.0-windows7.0/Infragistics.WPF.xml",
+        "lib/net9.0-windows7.0/de/Infragistics.WPF.resources.dll",
+        "lib/net9.0-windows7.0/es/Infragistics.WPF.resources.dll",
+        "lib/net9.0-windows7.0/fr/Infragistics.WPF.resources.dll",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.resources.dll",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.xml",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.31": {
+      "sha512": "LZpuf82ACZWldmfMuv3CTUMDh3o0xo0uHUaybR5HgqVLDBJJ9RZLykplQ/bTJd0/VDt3EhD4iDgUgbdIUAM+Kg==",
+      "type": "package",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.31",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Design/Microsoft.Xaml.Behaviors.Design.dll",
+        "lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "lib/net45/Microsoft.Xaml.Behaviors.pdb",
+        "lib/net45/Microsoft.Xaml.Behaviors.xml",
+        "lib/net5.0-windows7.0/Design/Microsoft.Xaml.Behaviors.DesignTools.dll",
+        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll",
+        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.pdb",
+        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.xml",
+        "lib/netcoreapp3.1/Design/Microsoft.Xaml.Behaviors.DesignTools.dll",
+        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll",
+        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.pdb",
+        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.xml",
+        "microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+        "microsoft.xaml.behaviors.wpf.nuspec",
+        "tools/Install.ps1"
+      ]
+    },
+    "Prism.Core/8.1.97": {
+      "sha512": "EP5zrvWddw3eSq25Y7hHnDYdmLZEC2Z/gMrvmHzUuLbitmA1UaS7wQUlSwNr9Km8lzJNCvytFnaGBEFukHgoHg==",
+      "type": "package",
+      "path": "prism.core/8.1.97",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "lib/net461/Prism.dll",
+        "lib/net461/Prism.pdb",
+        "lib/net461/Prism.xml",
+        "lib/net47/Prism.dll",
+        "lib/net47/Prism.pdb",
+        "lib/net47/Prism.xml",
+        "lib/net5.0/Prism.dll",
+        "lib/net5.0/Prism.pdb",
+        "lib/net5.0/Prism.xml",
+        "lib/netstandard2.0/Prism.dll",
+        "lib/netstandard2.0/Prism.pdb",
+        "lib/netstandard2.0/Prism.xml",
+        "prism-logo.png",
+        "prism.core.8.1.97.nupkg.sha512",
+        "prism.core.nuspec",
+        "readme.txt"
+      ]
+    },
+    "Prism.Wpf/8.1.97": {
+      "sha512": "ZEa6S1mK35h8/blyb0uR0ed3wkpHtPdhB4eniXINJnTiJMWlGl/As6SVlFFdOPD+qsEdWNYV3xgyQD/ue5cvBA==",
+      "type": "package",
+      "path": "prism.wpf/8.1.97",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "lib/net461/Prism.Wpf.dll",
+        "lib/net461/Prism.Wpf.pdb",
+        "lib/net461/Prism.Wpf.xml",
+        "lib/net47/Prism.Wpf.dll",
+        "lib/net47/Prism.Wpf.pdb",
+        "lib/net47/Prism.Wpf.xml",
+        "lib/net5.0-windows7.0/Prism.Wpf.dll",
+        "lib/net5.0-windows7.0/Prism.Wpf.pdb",
+        "lib/net5.0-windows7.0/Prism.Wpf.xml",
+        "lib/netcoreapp3.1/Prism.Wpf.dll",
+        "lib/netcoreapp3.1/Prism.Wpf.pdb",
+        "lib/netcoreapp3.1/Prism.Wpf.xml",
+        "prism-logo.png",
+        "prism.wpf.8.1.97.nupkg.sha512",
+        "prism.wpf.nuspec",
+        "readme.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Infragistics.WPF.Ribbon.Trial >= 24.2.53",
+      "Prism.Wpf >= 8.1.97"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj",
+      "projectName": "PrismOutlook.Core",
+      "projectPath": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj",
+      "packagesPath": "C:\\Users\\ayush.chauhan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ayush.chauhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/civilgeo/_packaging/Dev_Feed/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Infragistics.WPF.Ribbon.Trial": {
+            "target": "Package",
+            "version": "[24.2.53, )"
+          },
+          "Prism.Wpf": {
+            "target": "Package",
+            "version": "[8.1.97, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

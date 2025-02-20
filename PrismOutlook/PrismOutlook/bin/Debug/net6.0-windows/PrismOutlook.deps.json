@@ -1,0 +1,424 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrismOutlook/1.0.0": {
+        "dependencies": {
+          "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
+          "Infragistics.WPF.Ribbon.Trial": "24.2.53",
+          "Infragistics.WPF.Themes.Office2013.Trial": "24.2.53",
+          "Prism.Unity": "8.1.97",
+          "PrismOutlook.Core": "1.0.0",
+          "PrismOutlook.Modules.Calendar": "1.0.0",
+          "PrismOutlook.Modules.Contacts": "1.0.0",
+          "PrismOutlook.Modules.Mail": "1.0.0",
+          "PrismOutlook.Modules.ModuleName": "1.0.0",
+          "PrismOutlook.Services": "1.0.0",
+          "PrismOutlook.Services.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "PrismOutlook.dll": {}
+        }
+      },
+      "Infragistics.WPF.Editors.Trial/24.2.53": {
+        "dependencies": {
+          "Infragistics.WPF.Trial": "24.2.53"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.Editors.dll": {
+            "assemblyVersion": "24.2.20242.53",
+            "fileVersion": "24.2.0.53"
+          }
+        },
+        "resources": {
+          "lib/net6.0-windows7.0/de/Infragistics.WPF.Editors.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/Infragistics.WPF.Editors.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/Infragistics.WPF.Editors.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.Editors.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Infragistics.WPF.OutlookBar.Trial/24.2.53": {
+        "dependencies": {
+          "Infragistics.WPF.Trial": "24.2.53"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.OutlookBar.dll": {
+            "assemblyVersion": "24.2.20242.53",
+            "fileVersion": "24.2.0.53"
+          }
+        },
+        "resources": {
+          "lib/net6.0-windows7.0/de/Infragistics.WPF.OutlookBar.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/Infragistics.WPF.OutlookBar.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/Infragistics.WPF.OutlookBar.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.OutlookBar.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Infragistics.WPF.Ribbon.Trial/24.2.53": {
+        "dependencies": {
+          "Infragistics.WPF.Editors.Trial": "24.2.53",
+          "Infragistics.WPF.Trial": "24.2.53"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.Ribbon.dll": {
+            "assemblyVersion": "24.2.20242.53",
+            "fileVersion": "24.2.0.53"
+          }
+        },
+        "resources": {
+          "lib/net6.0-windows7.0/de/Infragistics.WPF.Ribbon.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/Infragistics.WPF.Ribbon.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/Infragistics.WPF.Ribbon.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.Ribbon.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Infragistics.WPF.Themes.Office2013.Trial/24.2.53": {
+        "dependencies": {
+          "Infragistics.WPF.Trial": "24.2.53"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.Themes.Office2013.dll": {
+            "assemblyVersion": "24.2.20242.53",
+            "fileVersion": "24.2.0.53"
+          }
+        }
+      },
+      "Infragistics.WPF.Trial/24.2.53": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.dll": {
+            "assemblyVersion": "24.2.20242.53",
+            "fileVersion": "24.2.0.53"
+          }
+        },
+        "resources": {
+          "lib/net6.0-windows7.0/de/Infragistics.WPF.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/Infragistics.WPF.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/Infragistics.WPF.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.31": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.31.10800"
+          }
+        }
+      },
+      "Prism.Core/8.1.97": {
+        "runtime": {
+          "lib/net5.0/Prism.dll": {
+            "assemblyVersion": "8.1.97.5141",
+            "fileVersion": "8.1.97.5141"
+          }
+        }
+      },
+      "Prism.Unity/8.1.97": {
+        "dependencies": {
+          "Prism.Wpf": "8.1.97",
+          "Unity.Container": "5.11.11"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Prism.Unity.Wpf.dll": {
+            "assemblyVersion": "8.1.97.5141",
+            "fileVersion": "8.1.97.5141"
+          }
+        }
+      },
+      "Prism.Wpf/8.1.97": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.31",
+          "Prism.Core": "8.1.97"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Prism.Wpf.dll": {
+            "assemblyVersion": "8.1.97.5141",
+            "fileVersion": "8.1.97.5141"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {},
+      "System.Threading.Tasks.Extensions/4.5.2": {},
+      "Unity.Abstractions/5.11.7": {
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Unity.Abstractions.dll": {
+            "assemblyVersion": "5.11.7.0",
+            "fileVersion": "5.11.7.0"
+          }
+        }
+      },
+      "Unity.Container/5.11.11": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2",
+          "Unity.Abstractions": "5.11.7"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Unity.Container.dll": {
+            "assemblyVersion": "5.11.11.0",
+            "fileVersion": "5.11.11.0"
+          }
+        }
+      },
+      "PrismOutlook.Core/1.0.0": {
+        "dependencies": {
+          "Infragistics.WPF.Ribbon.Trial": "24.2.53",
+          "Prism.Wpf": "8.1.97"
+        },
+        "runtime": {
+          "PrismOutlook.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrismOutlook.Modules.Calendar/1.0.0": {
+        "dependencies": {
+          "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
+          "Infragistics.WPF.Ribbon.Trial": "24.2.53",
+          "Prism.Wpf": "8.1.97",
+          "PrismOutlook.Core": "1.0.0"
+        },
+        "runtime": {
+          "PrismOutlook.Modules.Calendar.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrismOutlook.Modules.Contacts/1.0.0": {
+        "dependencies": {
+          "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
+          "Infragistics.WPF.Ribbon.Trial": "24.2.53",
+          "Prism.Wpf": "8.1.97",
+          "PrismOutlook.Core": "1.0.0"
+        },
+        "runtime": {
+          "PrismOutlook.Modules.Contacts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrismOutlook.Modules.Mail/1.0.0": {
+        "dependencies": {
+          "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
+          "Infragistics.WPF.Ribbon.Trial": "24.2.53",
+          "Prism.Wpf": "8.1.97",
+          "PrismOutlook.Core": "1.0.0"
+        },
+        "runtime": {
+          "PrismOutlook.Modules.Mail.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrismOutlook.Modules.ModuleName/1.0.0": {
+        "dependencies": {
+          "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
+          "Infragistics.WPF.Ribbon.Trial": "24.2.53",
+          "Prism.Wpf": "8.1.97",
+          "PrismOutlook.Core": "1.0.0",
+          "PrismOutlook.Services.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "PrismOutlook.Modules.ModuleName.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrismOutlook.Services/1.0.0": {
+        "dependencies": {
+          "PrismOutlook.Services.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "PrismOutlook.Services.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrismOutlook.Services.Interfaces/1.0.0": {
+        "runtime": {
+          "PrismOutlook.Services.Interfaces.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrismOutlook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infragistics.WPF.Editors.Trial/24.2.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b2Ljmjo7ipsBjl3PUjtqLRD5nUpC5m2r6ytThYVoSVNOoM8vn2Pg8Fhfr3qKCOsWi169cv2QGlpVVoJH/BJhzg==",
+      "path": "infragistics.wpf.editors.trial/24.2.53",
+      "hashPath": "infragistics.wpf.editors.trial.24.2.53.nupkg.sha512"
+    },
+    "Infragistics.WPF.OutlookBar.Trial/24.2.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BT99B24+RgRM4ow6r893sp5VQSycRCCAqA59+UiYe0i6sJbLERcybKDoo8szdgSImLI6iZrFpWg8XpoQHE2uSQ==",
+      "path": "infragistics.wpf.outlookbar.trial/24.2.53",
+      "hashPath": "infragistics.wpf.outlookbar.trial.24.2.53.nupkg.sha512"
+    },
+    "Infragistics.WPF.Ribbon.Trial/24.2.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YI0YQCFB3LGTl6tM1GsUa0QIt/TQw0YxtPFbbiGIfdMkJ35gq37RE5WSsNl4rvKNGZMyqn1h5WuTjZfAj/GuoQ==",
+      "path": "infragistics.wpf.ribbon.trial/24.2.53",
+      "hashPath": "infragistics.wpf.ribbon.trial.24.2.53.nupkg.sha512"
+    },
+    "Infragistics.WPF.Themes.Office2013.Trial/24.2.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0+pyKnEKlTFOH/Z/mPJZgy4gRWZUyEpgy0lQ3lSuV5s493l4fn3DQTY8UXp747vmBXsTwa1Wdul6jT6Z/PuUHA==",
+      "path": "infragistics.wpf.themes.office2013.trial/24.2.53",
+      "hashPath": "infragistics.wpf.themes.office2013.trial.24.2.53.nupkg.sha512"
+    },
+    "Infragistics.WPF.Trial/24.2.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NEv+gVW3nvU8QvRWfS+BuGXCBQZVs5F6n6ZsfgsjKhykEaAsns4JMqCW+vThQUF/SM5oO07EI1ZBnGZtE73fhw==",
+      "path": "infragistics.wpf.trial/24.2.53",
+      "hashPath": "infragistics.wpf.trial.24.2.53.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LZpuf82ACZWldmfMuv3CTUMDh3o0xo0uHUaybR5HgqVLDBJJ9RZLykplQ/bTJd0/VDt3EhD4iDgUgbdIUAM+Kg==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.31",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512"
+    },
+    "Prism.Core/8.1.97": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EP5zrvWddw3eSq25Y7hHnDYdmLZEC2Z/gMrvmHzUuLbitmA1UaS7wQUlSwNr9Km8lzJNCvytFnaGBEFukHgoHg==",
+      "path": "prism.core/8.1.97",
+      "hashPath": "prism.core.8.1.97.nupkg.sha512"
+    },
+    "Prism.Unity/8.1.97": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PDKDjC9HAFmCEoP8bgCwoGup0Lm0NyvYmN/kLbfO0Q4zmL/sZBDbP2KNC/UguXWOy0iH6fWiH9JYQYCGFZ4oBw==",
+      "path": "prism.unity/8.1.97",
+      "hashPath": "prism.unity.8.1.97.nupkg.sha512"
+    },
+    "Prism.Wpf/8.1.97": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZEa6S1mK35h8/blyb0uR0ed3wkpHtPdhB4eniXINJnTiJMWlGl/As6SVlFFdOPD+qsEdWNYV3xgyQD/ue5cvBA==",
+      "path": "prism.wpf/8.1.97",
+      "hashPath": "prism.wpf.8.1.97.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BG/TNxDFv0svAzx8OiMXDlsHfGw623BZ8tCXw4YLhDFDvDhNUEV58jKYMGRnkbJNm7c3JNNJDiN7JBMzxRBR2w==",
+      "path": "system.threading.tasks.extensions/4.5.2",
+      "hashPath": "system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    },
+    "Unity.Abstractions/5.11.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3ztwGEpe35UJlCUswXoi4uVDp8bJsgPsOmO71nZnNXh51II7t54AbezDbS6sR2z4QnMOpNGDaXbsEkyg6dIfOQ==",
+      "path": "unity.abstractions/5.11.7",
+      "hashPath": "unity.abstractions.5.11.7.nupkg.sha512"
+    },
+    "Unity.Container/5.11.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-47u4MBG8hxV2ZBUK7LlXcZQW8yWSqUSCRG+2/TBA2CSkxkQlMfVUJ0RJODJsZgsiSgy4N0M8HIr7J88drYR/OQ==",
+      "path": "unity.container/5.11.11",
+      "hashPath": "unity.container.5.11.11.nupkg.sha512"
+    },
+    "PrismOutlook.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrismOutlook.Modules.Calendar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrismOutlook.Modules.Contacts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrismOutlook.Modules.Mail/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrismOutlook.Modules.ModuleName/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrismOutlook.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrismOutlook.Services.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

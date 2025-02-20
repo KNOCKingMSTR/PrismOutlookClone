@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = PrismOutlook.Services.Interfaces
+build_property.ProjectDir = C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services.Interfaces\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
