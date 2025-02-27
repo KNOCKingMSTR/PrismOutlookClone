@@ -19,5 +19,6 @@
     <PkgInfragistics_WPF_Editors_Trial Condition=" '$(PkgInfragistics_WPF_Editors_Trial)' == '' ">C:\Users\ayush.chauhan\.nuget\packages\infragistics.wpf.editors.trial\24.2.53</PkgInfragistics_WPF_Editors_Trial>
     <PkgInfragistics_WPF_Ribbon_Trial Condition=" '$(PkgInfragistics_WPF_Ribbon_Trial)' == '' ">C:\Users\ayush.chauhan\.nuget\packages\infragistics.wpf.ribbon.trial\24.2.53</PkgInfragistics_WPF_Ribbon_Trial>
     <PkgInfragistics_WPF_OutlookBar_Trial Condition=" '$(PkgInfragistics_WPF_OutlookBar_Trial)' == '' ">C:\Users\ayush.chauhan\.nuget\packages\infragistics.wpf.outlookbar.trial\24.2.53</PkgInfragistics_WPF_OutlookBar_Trial>
+    <PkgInfragistics_WPF_DataTree_Trial Condition=" '$(PkgInfragistics_WPF_DataTree_Trial)' == '' ">C:\Users\ayush.chauhan\.nuget\packages\infragistics.wpf.datatree.trial\24.2.53</PkgInfragistics_WPF_DataTree_Trial>
   </PropertyGroup>
 </Project>

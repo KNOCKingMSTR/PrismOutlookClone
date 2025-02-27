@@ -62,7 +62,7 @@ namespace PrismOutlook.Modules.Mail.Menus {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PrismOutlook.Modules.Mail;V1.0.0.0;component/menus/hometab.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PrismOutlook.Modules.Mail;component/menus/hometab.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Menus\HomeTab.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

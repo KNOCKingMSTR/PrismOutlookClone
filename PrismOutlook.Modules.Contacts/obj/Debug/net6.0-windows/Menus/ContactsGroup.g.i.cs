@@ -53,7 +53,7 @@ namespace PrismOutlook.Modules.Contacts.Menus {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PrismOutlook.Modules.Contacts;V1.0.0.0;component/menus/contactsgroup.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PrismOutlook.Modules.Contacts;component/menus/contactsgroup.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Menus\ContactsGroup.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

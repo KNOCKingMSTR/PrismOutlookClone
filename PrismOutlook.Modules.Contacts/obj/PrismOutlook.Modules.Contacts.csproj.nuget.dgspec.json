@@ -55,6 +55,10 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "Infragistics.WPF.DataTree.Trial": {
+              "target": "Package",
+              "version": "[24.2.53, )"
+            },
             "Infragistics.WPF.OutlookBar.Trial": {
               "target": "Package",
               "version": "[24.2.53, )"

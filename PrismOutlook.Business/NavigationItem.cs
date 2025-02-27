@@ -7,12 +7,17 @@ using System.Threading.Tasks;
 
 namespace PrismOutlook.Business
 {
-    internal class NavigationItem
+    public class NavigationItem
     {
         public string Caption { get; set; }
 
         public string NavigationPath { get; set; }
 
-        public ObservableCollection<NavigationItem> Items { get; set; }     
+        public ObservableCollection<NavigationItem> Items { get; set; }
+
+        public NavigationItem()
+        {
+            Items = new ObservableCollection<NavigationItem>();
+        }
     }
 }

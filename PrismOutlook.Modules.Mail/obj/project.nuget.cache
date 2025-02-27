@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mL/3J3kyWbM=",
+  "dgSpecHash": "qcGsWo2cXyA=",
   "success": true,
   "projectFilePath": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.datamanager.trial\\24.2.53\\infragistics.wpf.datamanager.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.datatree.trial\\24.2.53\\infragistics.wpf.datatree.trial.24.2.53.nupkg.sha512",
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.dragdrop.trial\\24.2.53\\infragistics.wpf.dragdrop.trial.24.2.53.nupkg.sha512",
     "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.editors.trial\\24.2.53\\infragistics.wpf.editors.trial.24.2.53.nupkg.sha512",
     "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.outlookbar.trial\\24.2.53\\infragistics.wpf.outlookbar.trial.24.2.53.nupkg.sha512",
     "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.ribbon.trial\\24.2.53\\infragistics.wpf.ribbon.trial.24.2.53.nupkg.sha512",

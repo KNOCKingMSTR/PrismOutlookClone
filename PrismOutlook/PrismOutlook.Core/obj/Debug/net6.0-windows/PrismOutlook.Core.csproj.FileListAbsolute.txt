@@ -6,6 +6,7 @@ C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.AssemblyInfoInputs.cache
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.AssemblyInfo.cs
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.csproj.CoreCompileInputs.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.sourcelink.json
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.dll
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\refint\PrismOutlook.Core.dll
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook.Core\obj\Debug\net6.0-windows\PrismOutlook.Core.pdb

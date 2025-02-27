@@ -5,5 +5,6 @@ C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutl
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services.Interfaces\obj\Debug\netstandard2.1\PrismOutlook.Services.Interfaces.AssemblyInfoInputs.cache
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services.Interfaces\obj\Debug\netstandard2.1\PrismOutlook.Services.Interfaces.AssemblyInfo.cs
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services.Interfaces\obj\Debug\netstandard2.1\PrismOutlook.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services.Interfaces\obj\Debug\netstandard2.1\PrismOutlook.Services.Interfaces.sourcelink.json
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services.Interfaces\obj\Debug\netstandard2.1\PrismOutlook.Services.Interfaces.dll
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services.Interfaces\obj\Debug\netstandard2.1\PrismOutlook.Services.Interfaces.pdb

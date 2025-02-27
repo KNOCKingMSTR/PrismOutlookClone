@@ -15,6 +15,7 @@ C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Modules\PrismOutlo
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Modules\PrismOutlook.Modules.ModuleName\obj\Debug\net6.0-windows\PrismOutlook.Modules.ModuleName.AssemblyInfoInputs.cache
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Modules\PrismOutlook.Modules.ModuleName\obj\Debug\net6.0-windows\PrismOutlook.Modules.ModuleName.AssemblyInfo.cs
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Modules\PrismOutlook.Modules.ModuleName\obj\Debug\net6.0-windows\PrismOutlook.Modules.ModuleName.csproj.CoreCompileInputs.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Modules\PrismOutlook.Modules.ModuleName\obj\Debug\net6.0-windows\PrismOutlook.Modules.ModuleName.sourcelink.json
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Modules\PrismOutlook.Modules.ModuleName\obj\Debug\net6.0-windows\PrismOut.29AFE556.Up2Date
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Modules\PrismOutlook.Modules.ModuleName\obj\Debug\net6.0-windows\PrismOutlook.Modules.ModuleName.dll
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Modules\PrismOutlook.Modules.ModuleName\obj\Debug\net6.0-windows\refint\PrismOutlook.Modules.ModuleName.dll

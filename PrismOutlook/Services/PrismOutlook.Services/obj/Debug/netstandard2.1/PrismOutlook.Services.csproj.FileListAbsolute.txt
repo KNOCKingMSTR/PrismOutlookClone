@@ -8,6 +8,7 @@ C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutl
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.AssemblyInfoInputs.cache
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.AssemblyInfo.cs
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.csproj.CoreCompileInputs.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.sourcelink.json
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOut.CC3CE0EE.Up2Date
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.dll
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Services\PrismOutlook.Services\obj\Debug\netstandard2.1\PrismOutlook.Services.pdb

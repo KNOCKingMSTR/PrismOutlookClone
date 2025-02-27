@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "PrismOutlook.Modules.Calendar/1.0.0": {
         "dependencies": {
+          "Infragistics.WPF.DataTree.Trial": "24.2.53",
           "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
           "Infragistics.WPF.Ribbon.Trial": "24.2.53",
           "Prism.Wpf": "8.1.97",
@@ -15,6 +16,60 @@
         },
         "runtime": {
           "PrismOutlook.Modules.Calendar.dll": {}
+        }
+      },
+      "Infragistics.WPF.DataManager.Trial/24.2.53": {
+        "dependencies": {
+          "Infragistics.WPF.Trial": "24.2.53"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.DataManager.dll": {
+            "assemblyVersion": "24.2.20242.53",
+            "fileVersion": "24.2.0.53"
+          }
+        },
+        "resources": {
+          "lib/net6.0-windows7.0/de/Infragistics.WPF.DataManager.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/Infragistics.WPF.DataManager.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/Infragistics.WPF.DataManager.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.DataManager.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Infragistics.WPF.DataTree.Trial/24.2.53": {
+        "dependencies": {
+          "Infragistics.WPF.DataManager.Trial": "24.2.53",
+          "Infragistics.WPF.DragDrop.Trial": "24.2.53",
+          "Infragistics.WPF.Trial": "24.2.53"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.dll": {
+            "assemblyVersion": "24.2.20242.53",
+            "fileVersion": "24.2.0.53"
+          }
+        },
+        "resources": {
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.Controls.Menus.XamDataTree.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Infragistics.WPF.DragDrop.Trial/24.2.53": {
+        "dependencies": {
+          "Infragistics.WPF.Trial": "24.2.53"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.DragDrop.dll": {
+            "assemblyVersion": "24.2.20242.53",
+            "fileVersion": "24.2.0.53"
+          }
         }
       },
       "Infragistics.WPF.Editors.Trial/24.2.53": {
@@ -162,6 +217,27 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Infragistics.WPF.DataManager.Trial/24.2.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zMvEqYhQvAHqNjjVu03qfr3bzZ9TgEGsKR9mTpp5lsqRCX0pfv67dMP6pJGb8epohoD3u2wyrg3xNUcXVYUu8A==",
+      "path": "infragistics.wpf.datamanager.trial/24.2.53",
+      "hashPath": "infragistics.wpf.datamanager.trial.24.2.53.nupkg.sha512"
+    },
+    "Infragistics.WPF.DataTree.Trial/24.2.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lDsTSrSFO7m4amKm9LJDIyY9eLYs+q3a5Ow/00se96n1xYBtFYwgO/vn+J7mE9a92fMb89LR4tkcgxmsCnev5Q==",
+      "path": "infragistics.wpf.datatree.trial/24.2.53",
+      "hashPath": "infragistics.wpf.datatree.trial.24.2.53.nupkg.sha512"
+    },
+    "Infragistics.WPF.DragDrop.Trial/24.2.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-crhm3WHipHPpk5WomlO1SA5AbnP0Se/CkfNSM7PG5YedoyJtOmCruXi5e/MVr23MGsG6gGWpSCc1igeZ3U4sOQ==",
+      "path": "infragistics.wpf.dragdrop.trial/24.2.53",
+      "hashPath": "infragistics.wpf.dragdrop.trial.24.2.53.nupkg.sha512"
     },
     "Infragistics.WPF.Editors.Trial/24.2.53": {
       "type": "package",

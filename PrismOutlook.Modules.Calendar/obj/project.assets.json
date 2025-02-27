@@ -2,6 +2,75 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
+      "Infragistics.WPF.DataManager.Trial/24.2.53": {
+        "type": "package",
+        "dependencies": {
+          "Infragistics.WPF.Trial": "[24.2.53]"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.DataManager.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.DataManager.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "resource": {
+          "lib/net6.0-windows7.0/de/Infragistics.WPF.DataManager.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/Infragistics.WPF.DataManager.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/Infragistics.WPF.DataManager.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.DataManager.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Infragistics.WPF.DataTree.Trial/24.2.53": {
+        "type": "package",
+        "dependencies": {
+          "Infragistics.WPF.DataManager.Trial": "[24.2.53]",
+          "Infragistics.WPF.DragDrop.Trial": "[24.2.53]",
+          "Infragistics.WPF.Trial": "[24.2.53]"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "resource": {
+          "lib/net6.0-windows7.0/ja/Infragistics.WPF.Controls.Menus.XamDataTree.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Infragistics.WPF.DragDrop.Trial/24.2.53": {
+        "type": "package",
+        "dependencies": {
+          "Infragistics.WPF.Trial": "[24.2.53]"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.DragDrop.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Infragistics.WPF.DragDrop.dll": {
+            "related": ".deps.json;.xml"
+          }
+        }
+      },
       "Infragistics.WPF.Editors.Trial/24.2.53": {
         "type": "package",
         "dependencies": {
@@ -189,6 +258,110 @@
     }
   },
   "libraries": {
+    "Infragistics.WPF.DataManager.Trial/24.2.53": {
+      "sha512": "zMvEqYhQvAHqNjjVu03qfr3bzZ9TgEGsKR9mTpp5lsqRCX0pfv67dMP6pJGb8epohoD3u2wyrg3xNUcXVYUu8A==",
+      "type": "package",
+      "path": "infragistics.wpf.datamanager.trial/24.2.53",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "infragistics.wpf.datamanager.trial.24.2.53.nupkg.sha512",
+        "infragistics.wpf.datamanager.trial.nuspec",
+        "lib/net40/InfragisticsWPF.DataManager.dll",
+        "lib/net40/InfragisticsWPF.DataManager.xml",
+        "lib/net40/de/InfragisticsWPF.DataManager.resources.dll",
+        "lib/net40/es/InfragisticsWPF.DataManager.resources.dll",
+        "lib/net40/fr/InfragisticsWPF.DataManager.resources.dll",
+        "lib/net40/ja/InfragisticsWPF.DataManager.resources.dll",
+        "lib/net40/ja/InfragisticsWPF.DataManager.xml",
+        "lib/net6.0-windows7.0/Infragistics.WPF.DataManager.deps.json",
+        "lib/net6.0-windows7.0/Infragistics.WPF.DataManager.dll",
+        "lib/net6.0-windows7.0/Infragistics.WPF.DataManager.xml",
+        "lib/net6.0-windows7.0/de/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net6.0-windows7.0/es/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net6.0-windows7.0/fr/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.DataManager.xml",
+        "lib/net8.0-windows7.0/Infragistics.WPF.DataManager.deps.json",
+        "lib/net8.0-windows7.0/Infragistics.WPF.DataManager.dll",
+        "lib/net8.0-windows7.0/Infragistics.WPF.DataManager.xml",
+        "lib/net8.0-windows7.0/de/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net8.0-windows7.0/es/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net8.0-windows7.0/fr/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.DataManager.xml",
+        "lib/net9.0-windows7.0/Infragistics.WPF.DataManager.deps.json",
+        "lib/net9.0-windows7.0/Infragistics.WPF.DataManager.dll",
+        "lib/net9.0-windows7.0/Infragistics.WPF.DataManager.xml",
+        "lib/net9.0-windows7.0/de/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net9.0-windows7.0/es/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net9.0-windows7.0/fr/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.DataManager.resources.dll",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.DataManager.xml"
+      ]
+    },
+    "Infragistics.WPF.DataTree.Trial/24.2.53": {
+      "sha512": "lDsTSrSFO7m4amKm9LJDIyY9eLYs+q3a5Ow/00se96n1xYBtFYwgO/vn+J7mE9a92fMb89LR4tkcgxmsCnev5Q==",
+      "type": "package",
+      "path": "infragistics.wpf.datatree.trial/24.2.53",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "infragistics.wpf.datatree.trial.24.2.53.nupkg.sha512",
+        "infragistics.wpf.datatree.trial.nuspec",
+        "lib/net40/Design/InfragisticsWPF.Controls.Menus.XamDataTree.DesignTools.dll",
+        "lib/net40/InfragisticsWPF.Controls.Menus.XamDataTree.dll",
+        "lib/net40/InfragisticsWPF.Controls.Menus.XamDataTree.xml",
+        "lib/net40/ja/InfragisticsWPF.Controls.Menus.XamDataTree.resources.dll",
+        "lib/net40/ja/InfragisticsWPF.Controls.Menus.XamDataTree.xml",
+        "lib/net6.0-windows7.0/Design/Infragistics.WPF.Controls.Menus.XamDataTree.DesignTools.dll",
+        "lib/net6.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.deps.json",
+        "lib/net6.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.dll",
+        "lib/net6.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.xml",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.Controls.Menus.XamDataTree.resources.dll",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.Controls.Menus.XamDataTree.xml",
+        "lib/net8.0-windows7.0/Design/Infragistics.WPF.Controls.Menus.XamDataTree.DesignTools.dll",
+        "lib/net8.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.deps.json",
+        "lib/net8.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.dll",
+        "lib/net8.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.xml",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.Controls.Menus.XamDataTree.resources.dll",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.Controls.Menus.XamDataTree.xml",
+        "lib/net9.0-windows7.0/Design/Infragistics.WPF.Controls.Menus.XamDataTree.DesignTools.dll",
+        "lib/net9.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.deps.json",
+        "lib/net9.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.dll",
+        "lib/net9.0-windows7.0/Infragistics.WPF.Controls.Menus.XamDataTree.xml",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.Controls.Menus.XamDataTree.resources.dll",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.Controls.Menus.XamDataTree.xml",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Infragistics.WPF.DragDrop.Trial/24.2.53": {
+      "sha512": "crhm3WHipHPpk5WomlO1SA5AbnP0Se/CkfNSM7PG5YedoyJtOmCruXi5e/MVr23MGsG6gGWpSCc1igeZ3U4sOQ==",
+      "type": "package",
+      "path": "infragistics.wpf.dragdrop.trial/24.2.53",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "infragistics.wpf.dragdrop.trial.24.2.53.nupkg.sha512",
+        "infragistics.wpf.dragdrop.trial.nuspec",
+        "lib/net40/InfragisticsWPF.DragDrop.dll",
+        "lib/net40/InfragisticsWPF.DragDrop.xml",
+        "lib/net40/ja/InfragisticsWPF.DragDrop.xml",
+        "lib/net6.0-windows7.0/Infragistics.WPF.DragDrop.deps.json",
+        "lib/net6.0-windows7.0/Infragistics.WPF.DragDrop.dll",
+        "lib/net6.0-windows7.0/Infragistics.WPF.DragDrop.xml",
+        "lib/net6.0-windows7.0/ja/Infragistics.WPF.DragDrop.xml",
+        "lib/net8.0-windows7.0/Infragistics.WPF.DragDrop.deps.json",
+        "lib/net8.0-windows7.0/Infragistics.WPF.DragDrop.dll",
+        "lib/net8.0-windows7.0/Infragistics.WPF.DragDrop.xml",
+        "lib/net8.0-windows7.0/ja/Infragistics.WPF.DragDrop.xml",
+        "lib/net9.0-windows7.0/Infragistics.WPF.DragDrop.deps.json",
+        "lib/net9.0-windows7.0/Infragistics.WPF.DragDrop.dll",
+        "lib/net9.0-windows7.0/Infragistics.WPF.DragDrop.xml",
+        "lib/net9.0-windows7.0/ja/Infragistics.WPF.DragDrop.xml"
+      ]
+    },
     "Infragistics.WPF.Editors.Trial/24.2.53": {
       "sha512": "b2Ljmjo7ipsBjl3PUjtqLRD5nUpC5m2r6ytThYVoSVNOoM8vn2Pg8Fhfr3qKCOsWi169cv2QGlpVVoJH/BJhzg==",
       "type": "package",
@@ -470,6 +643,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "Infragistics.WPF.DataTree.Trial >= 24.2.53",
       "Infragistics.WPF.OutlookBar.Trial >= 24.2.53",
       "Infragistics.WPF.Ribbon.Trial >= 24.2.53",
       "Prism.Wpf >= 8.1.97",
@@ -531,6 +705,10 @@
       "net6.0-windows7.0": {
         "targetAlias": "net6.0-windows",
         "dependencies": {
+          "Infragistics.WPF.DataTree.Trial": {
+            "target": "Package",
+            "version": "[24.2.53, )"
+          },
           "Infragistics.WPF.OutlookBar.Trial": {
             "target": "Package",
             "version": "[24.2.53, )"

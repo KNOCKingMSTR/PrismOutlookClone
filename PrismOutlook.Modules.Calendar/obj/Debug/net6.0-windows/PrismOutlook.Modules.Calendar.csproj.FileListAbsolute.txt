@@ -15,6 +15,7 @@ C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook.Modules.Calendar\o
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook.Modules.Calendar\obj\Debug\net6.0-windows\PrismOutlook.Modules.Calendar.AssemblyInfoInputs.cache
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook.Modules.Calendar\obj\Debug\net6.0-windows\PrismOutlook.Modules.Calendar.AssemblyInfo.cs
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook.Modules.Calendar\obj\Debug\net6.0-windows\PrismOutlook.Modules.Calendar.csproj.CoreCompileInputs.cache
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook.Modules.Calendar\obj\Debug\net6.0-windows\PrismOutlook.Modules.Calendar.sourcelink.json
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook.Modules.Calendar\obj\Debug\net6.0-windows\PrismOut.1315887F.Up2Date
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook.Modules.Calendar\obj\Debug\net6.0-windows\PrismOutlook.Modules.Calendar.dll
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook.Modules.Calendar\obj\Debug\net6.0-windows\refint\PrismOutlook.Modules.Calendar.dll
