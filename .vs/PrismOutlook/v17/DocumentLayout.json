@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\viewmodels\\mailgroupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\viewmodels\\mailgroupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\menus\\mailgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\menus\\mailgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\prismoutlook.modules.mail.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\prismoutlook.modules.mail.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook.core\\applicationcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|solutionrelative:prismoutlook\\prismoutlook.core\\applicationcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|solutionrelative:prismoutlook\\prismoutlook\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook\\views\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|solutionrelative:prismoutlook\\prismoutlook\\views\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\menus\\mailgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\menus\\mailgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|solutionrelative:prismoutlook\\prismoutlook\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook.core\\applicationcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|solutionrelative:prismoutlook\\prismoutlook.core\\applicationcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook.core\\prismoutlook.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|solutionrelative:prismoutlook\\prismoutlook.core\\prismoutlook.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C20AC5DA-673E-4E0E-A3A6-0F8BC74F1CBD}|PrismOutlook.Business\\PrismOutlook.Business.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.business\\navigationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C20AC5DA-673E-4E0E-A3A6-0F8BC74F1CBD}|PrismOutlook.Business\\PrismOutlook.Business.csproj|solutionrelative:prismoutlook.business\\navigationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\mailmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\mailmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\viewmodels\\mailgroupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\viewmodels\\mailgroupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\viewmodels\\maillistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\viewmodels\\maillistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\mailmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\mailmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\views\\maillist.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
@@ -55,16 +35,51 @@
       "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\views\\maillist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\menus\\mailgroup.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\menus\\mailgroup.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEF4031D-0830-4621-A9AA-84564C08F289}|PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.contacts\\menus\\contactsgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEF4031D-0830-4621-A9AA-84564C08F289}|PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj|solutionrelative:prismoutlook.modules.contacts\\menus\\contactsgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEF4031D-0830-4621-A9AA-84564C08F289}|PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.contacts\\viewmodels\\viewaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF4031D-0830-4621-A9AA-84564C08F289}|PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj|solutionrelative:prismoutlook.modules.contacts\\viewmodels\\viewaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEF4031D-0830-4621-A9AA-84564C08F289}|PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.contacts\\contactsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEF4031D-0830-4621-A9AA-84564C08F289}|PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj|solutionrelative:prismoutlook.modules.contacts\\contactsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook\\views\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|solutionrelative:prismoutlook\\prismoutlook\\views\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\menus\\mailgroup.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\menus\\mailgroup.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ayush.chauhan\\AppData\\Local\\SourceServer\\b1ddde0f889dde1a9db6280c2f72aa391366aaa7112a1cead11dc5441c0bfb76\\PrismOutlook.Modules.Mail\\ViewModels\\MailGroupViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20AC5DA-673E-4E0E-A3A6-0F8BC74F1CBD}|PrismOutlook.Business\\PrismOutlook.Business.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.business\\navigationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20AC5DA-673E-4E0E-A3A6-0F8BC74F1CBD}|PrismOutlook.Business\\PrismOutlook.Business.csproj|solutionrelative:prismoutlook.business\\navigationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\menus\\hometab.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\menus\\hometab.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\menus\\hometab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\menus\\hometab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|solutionrelative:prismoutlook\\prismoutlook\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\prismoutlook.modules.mail.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\prismoutlook.modules.mail.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook.core\\prismoutlook.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|solutionrelative:prismoutlook\\prismoutlook.core\\prismoutlook.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF4031D-0830-4621-A9AA-84564C08F289}|PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.contacts\\menus\\contactsgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF4031D-0830-4621-A9AA-84564C08F289}|PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj|solutionrelative:prismoutlook.modules.contacts\\menus\\contactsgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEF4031D-0830-4621-A9AA-84564C08F289}|PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.contacts\\menus\\contactsgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -77,10 +92,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook.core\\ioutlookbargroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|solutionrelative:prismoutlook\\prismoutlook.core\\ioutlookbargroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\menus\\hometab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\menus\\hometab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4D4A0FC-7E03-49CC-8637-0A9CB3EA5B7C}|PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook.core\\regionnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,10 +150,6 @@
       "RelativeMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|solutionrelative:prismoutlook\\prismoutlook\\prismoutlook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook.modules.mail\\menus\\hometab.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{917B5010-3772-47F0-837B-FBB5E332643B}|PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj|solutionrelative:prismoutlook.modules.mail\\menus\\hometab.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|c:\\users\\ayush.chauhan\\source\\repos\\prismoutlook\\prismoutlook\\prismoutlook\\core\\regions\\xamribbonregionadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FEDBC83-5040-49AA-A4AD-07F745BA2DFB}|PrismOutlook\\PrismOutlook\\PrismOutlook.csproj|solutionrelative:prismoutlook\\prismoutlook\\core\\regions\\xamribbonregionadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -158,7 +165,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,33 +177,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "ViewAViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\ViewModels\\ViewAViewModel.cs",
+              "RelativeDocumentMoniker": "PrismOutlook.Modules.Contacts\\ViewModels\\ViewAViewModel.cs",
+              "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\ViewModels\\ViewAViewModel.cs",
+              "RelativeToolTip": "PrismOutlook.Modules.Contacts\\ViewModels\\ViewAViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:30:39.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MailGroupViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ayush.chauhan\\AppData\\Local\\SourceServer\\b1ddde0f889dde1a9db6280c2f72aa391366aaa7112a1cead11dc5441c0bfb76\\PrismOutlook.Modules.Mail\\ViewModels\\MailGroupViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\b1ddde0f889dde1a9db6280c2f72aa391366aaa7112a1cead11dc5441c0bfb76\\PrismOutlook.Modules.Mail\\ViewModels\\MailGroupViewModel.cs",
+              "ToolTip": "C:\\Users\\ayush.chauhan\\AppData\\Local\\SourceServer\\b1ddde0f889dde1a9db6280c2f72aa391366aaa7112a1cead11dc5441c0bfb76\\PrismOutlook.Modules.Mail\\ViewModels\\MailGroupViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\b1ddde0f889dde1a9db6280c2f72aa391366aaa7112a1cead11dc5441c0bfb76\\PrismOutlook.Modules.Mail\\ViewModels\\MailGroupViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:11:27.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ApplicationCommands.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\ApplicationCommands.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook.Core\\ApplicationCommands.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\ApplicationCommands.cs",
               "RelativeToolTip": "PrismOutlook\\PrismOutlook.Core\\ApplicationCommands.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T17:03:23.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "IOutlookBarGroup.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\IOutlookBarGroup.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook.Core\\IOutlookBarGroup.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\IOutlookBarGroup.cs",
               "RelativeToolTip": "PrismOutlook\\PrismOutlook.Core\\IOutlookBarGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T16:27:56.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T16:27:56.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "PrismOutlook.Business.csproj",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Business\\PrismOutlook.Business.csproj",
               "RelativeDocumentMoniker": "PrismOutlook.Business\\PrismOutlook.Business.csproj",
@@ -204,12 +234,11 @@
               "RelativeToolTip": "PrismOutlook.Business\\PrismOutlook.Business.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-21T12:20:43.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T12:20:43.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "MailListViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\ViewModels\\MailListViewModel.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Mail\\ViewModels\\MailListViewModel.cs",
@@ -222,58 +251,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MailGroupViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\ViewModels\\MailGroupViewModel.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Mail\\ViewModels\\MailGroupViewModel.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\ViewModels\\MailGroupViewModel.cs",
               "RelativeToolTip": "PrismOutlook.Modules.Mail\\ViewModels\\MailGroupViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T04:08:21.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "NavigationItem.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Business\\NavigationItem.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Business\\NavigationItem.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Business\\NavigationItem.cs",
               "RelativeToolTip": "PrismOutlook.Business\\NavigationItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T03:55:31.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T03:55:31.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "MailList.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\Views\\MailList.xaml.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Mail\\Views\\MailList.xaml.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\Views\\MailList.xaml.cs",
               "RelativeToolTip": "PrismOutlook.Modules.Mail\\Views\\MailList.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T03:36:37.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "MailList.xaml",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\Views\\MailList.xaml",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Mail\\Views\\MailList.xaml",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\Views\\MailList.xaml",
               "RelativeToolTip": "PrismOutlook.Modules.Mail\\Views\\MailList.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-20T03:35:32.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T03:35:32.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "ViewA.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\Views\\ViewA.xaml.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Contacts\\Views\\ViewA.xaml.cs",
@@ -281,24 +308,22 @@
               "RelativeToolTip": "PrismOutlook.Modules.Contacts\\Views\\ViewA.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:29:46.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T17:29:46.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "ViewA.xaml",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\Views\\ViewA.xaml",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Contacts\\Views\\ViewA.xaml",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\Views\\ViewA.xaml",
               "RelativeToolTip": "PrismOutlook.Modules.Contacts\\Views\\ViewA.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T17:29:42.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T17:29:42.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "ContactsGroup.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\Menus\\ContactsGroup.xaml.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Contacts\\Menus\\ContactsGroup.xaml.cs",
@@ -306,24 +331,22 @@
               "RelativeToolTip": "PrismOutlook.Modules.Contacts\\Menus\\ContactsGroup.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:29:00.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T17:29:00.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "ContactsGroup.xaml",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\Menus\\ContactsGroup.xaml",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Contacts\\Menus\\ContactsGroup.xaml",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\Menus\\ContactsGroup.xaml",
               "RelativeToolTip": "PrismOutlook.Modules.Contacts\\Menus\\ContactsGroup.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T17:27:28.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T17:27:28.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "CalendarGroup.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Calendar\\Menus\\CalendarGroup.xaml.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Calendar\\Menus\\CalendarGroup.xaml.cs",
@@ -331,12 +354,11 @@
               "RelativeToolTip": "PrismOutlook.Modules.Calendar\\Menus\\CalendarGroup.xaml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:22:55.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T17:22:55.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\App.xaml",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook\\App.xaml",
@@ -348,19 +370,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "CalendarGroup.xaml",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Calendar\\Menus\\CalendarGroup.xaml",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Calendar\\Menus\\CalendarGroup.xaml",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Calendar\\Menus\\CalendarGroup.xaml",
               "RelativeToolTip": "PrismOutlook.Modules.Calendar\\Menus\\CalendarGroup.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T17:18:14.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T17:18:14.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "CalendarModule.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Calendar\\CalendarModule.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Calendar\\CalendarModule.cs",
@@ -368,38 +389,35 @@
               "RelativeToolTip": "PrismOutlook.Modules.Calendar\\CalendarModule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:08:21.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T17:08:21.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "ContactsModule.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\ContactsModule.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Contacts\\ContactsModule.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\ContactsModule.cs",
               "RelativeToolTip": "PrismOutlook.Modules.Contacts\\ContactsModule.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:07:24.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T17:07:24.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "MailGroup.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\Menus\\MailGroup.xaml.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Mail\\Menus\\MailGroup.xaml.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\Menus\\MailGroup.xaml.cs",
               "RelativeToolTip": "PrismOutlook.Modules.Mail\\Menus\\MailGroup.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:52:41.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:52:41.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "PrismOutlook.Core.csproj",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj",
@@ -407,12 +425,11 @@
               "RelativeToolTip": "PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-19T16:50:12.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:50:12.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "PrismOutlook.Modules.Calendar.csproj",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Calendar\\PrismOutlook.Modules.Calendar.csproj",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Calendar\\PrismOutlook.Modules.Calendar.csproj",
@@ -420,12 +437,11 @@
               "RelativeToolTip": "PrismOutlook.Modules.Calendar\\PrismOutlook.Modules.Calendar.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-19T16:50:07.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:50:07.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "PrismOutlook.Modules.Contacts.csproj",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj",
@@ -433,12 +449,11 @@
               "RelativeToolTip": "PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-19T16:50:05.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:50:05.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MailGroup.xaml",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\Menus\\MailGroup.xaml",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Mail\\Menus\\MailGroup.xaml",
@@ -450,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "App.g.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\obj\\Debug\\net6.0-windows\\App.g.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook\\obj\\Debug\\net6.0-windows\\App.g.cs",
@@ -458,12 +473,11 @@
               "RelativeToolTip": "PrismOutlook\\PrismOutlook\\obj\\Debug\\net6.0-windows\\App.g.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T12:19:18.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T12:19:18.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 14,
               "Title": "HomeTab.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\Menus\\HomeTab.xaml.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Mail\\Menus\\HomeTab.xaml.cs",
@@ -471,24 +485,22 @@
               "RelativeToolTip": "PrismOutlook.Modules.Mail\\Menus\\HomeTab.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T12:11:53.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T12:11:53.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 15,
               "Title": "HomeTab.xaml",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\Menus\\HomeTab.xaml",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Mail\\Menus\\HomeTab.xaml",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\Menus\\HomeTab.xaml",
               "RelativeToolTip": "PrismOutlook.Modules.Mail\\Menus\\HomeTab.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-16T11:29:22.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T11:29:22.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "PrismOutlook.Modules.Mail.csproj",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj",
@@ -496,12 +508,11 @@
               "RelativeToolTip": "PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-16T11:21:33.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T11:21:33.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "XamRibbonRegionAdapter.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\Core\\Regions\\XamRibbonRegionAdapter.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook\\Core\\Regions\\XamRibbonRegionAdapter.cs",
@@ -509,12 +520,11 @@
               "RelativeToolTip": "PrismOutlook\\PrismOutlook\\Core\\Regions\\XamRibbonRegionAdapter.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:33:01.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T16:33:01.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\Mvvm\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook.Core\\Mvvm\\ViewModelBase.cs",
@@ -522,12 +532,11 @@
               "RelativeToolTip": "PrismOutlook\\PrismOutlook.Core\\Mvvm\\ViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:13:27.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T06:13:27.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "RegionViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\Mvvm\\RegionViewModelBase.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook.Core\\Mvvm\\RegionViewModelBase.cs",
@@ -535,12 +544,11 @@
               "RelativeToolTip": "PrismOutlook\\PrismOutlook.Core\\Mvvm\\RegionViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:13:19.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T06:13:19.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "XamOutlookBarRegionAdapter.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\Core\\Regions\\XamOutlookBarRegionAdapter.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook\\Core\\Regions\\XamOutlookBarRegionAdapter.cs",
@@ -548,12 +556,11 @@
               "RelativeToolTip": "PrismOutlook\\PrismOutlook\\Core\\Regions\\XamOutlookBarRegionAdapter.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T13:36:44.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T13:36:44.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "RegionNames.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.Core\\RegionNames.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook.Core\\RegionNames.cs",
@@ -561,50 +568,47 @@
               "RelativeToolTip": "PrismOutlook\\PrismOutlook.Core\\RegionNames.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:48:31.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T12:48:31.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook\\Views\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "PrismOutlook\\PrismOutlook\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T07:44:20.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T07:44:20.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook\\Views\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\Views\\MainWindow.xaml",
               "RelativeToolTip": "PrismOutlook\\PrismOutlook\\Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-02T07:38:39.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T07:38:39.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "MailModule.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\MailModule.cs",
               "RelativeDocumentMoniker": "PrismOutlook.Modules.Mail\\MailModule.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Mail\\MailModule.cs",
               "RelativeToolTip": "PrismOutlook.Modules.Mail\\MailModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T07:35:54.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "PrismOutlook.csproj",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\PrismOutlook.csproj",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook\\PrismOutlook.csproj",
@@ -612,31 +616,29 @@
               "RelativeToolTip": "PrismOutlook\\PrismOutlook\\PrismOutlook.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-02T07:39:23.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T07:39:23.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\App.xaml.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook\\App.xaml.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\App.xaml.cs",
               "RelativeToolTip": "PrismOutlook\\PrismOutlook\\App.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwCAAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T07:21:38.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T07:21:38.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "PrismOutlook\\PrismOutlook\\ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "PrismOutlook\\PrismOutlook\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowB4AAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T07:29:34.961Z",
               "EditorCaption": ""

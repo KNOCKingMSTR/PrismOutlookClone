@@ -54,7 +54,7 @@ namespace PrismOutlook.Modules.Calendar.Menus {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PrismOutlook.Modules.Calendar;component/menus/calendargroup.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PrismOutlook.Modules.Calendar;V1.0.0.0;component/menus/calendargroup.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Menus\CalendarGroup.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

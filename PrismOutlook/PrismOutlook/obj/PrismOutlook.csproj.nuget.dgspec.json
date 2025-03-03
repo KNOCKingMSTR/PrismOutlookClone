@@ -135,6 +135,10 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "Expression.Interaction": {
+              "target": "Package",
+              "version": "[3.0.40218, )"
+            },
             "Infragistics.WPF.DataTree.Trial": {
               "target": "Package",
               "version": "[24.2.53, )"
@@ -240,6 +244,10 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "Expression.Interaction": {
+              "target": "Package",
+              "version": "[3.0.40218, )"
+            },
             "Infragistics.WPF.DataTree.Trial": {
               "target": "Package",
               "version": "[24.2.53, )"
@@ -348,6 +356,10 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "Expression.Interaction": {
+              "target": "Package",
+              "version": "[3.0.40218, )"
+            },
             "Infragistics.WPF.DataTree.Trial": {
               "target": "Package",
               "version": "[24.2.53, )"
@@ -456,6 +468,10 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "Expression.Interaction": {
+              "target": "Package",
+              "version": "[3.0.40218, )"
+            },
             "Infragistics.WPF.OutlookBar.Trial": {
               "target": "Package",
               "version": "[24.2.53, )"
@@ -668,6 +684,10 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "Expression.Interaction": {
+              "target": "Package",
+              "version": "[3.0.40218, )"
+            },
             "Infragistics.WPF.DataTree.Trial": {
               "target": "Package",
               "version": "[24.2.53, )"

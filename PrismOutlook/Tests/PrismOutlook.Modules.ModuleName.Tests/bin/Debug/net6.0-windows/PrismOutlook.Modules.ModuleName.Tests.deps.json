@@ -40,6 +40,18 @@
         }
       },
       "coverlet.collector/3.1.2": {},
+      "Expression.Interaction/3.0.40218": {
+        "runtime": {
+          "lib/net46/Microsoft.Expression.Interactions.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "3.0.40218.0"
+          },
+          "lib/net46/System.Windows.Interactivity.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "3.0.40218.0"
+          }
+        }
+      },
       "Infragistics.WPF.Editors.Trial/24.2.53": {
         "dependencies": {
           "Infragistics.WPF.Trial": "24.2.53"
@@ -1335,6 +1347,7 @@
       },
       "PrismOutlook.Modules.ModuleName/1.0.0": {
         "dependencies": {
+          "Expression.Interaction": "3.0.40218",
           "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
           "Infragistics.WPF.Ribbon.Trial": "24.2.53",
           "Prism.Wpf": "8.1.97",
@@ -1377,6 +1390,13 @@
       "sha512": "sha512-wuLDIDKD5XMt0A7lE31JPenT7QQwZPFkP5rRpdJeblyXZ9MGLI8rYjvm5fvAKln+2/X+4IxxQDxBtwdrqKNLZw==",
       "path": "coverlet.collector/3.1.2",
       "hashPath": "coverlet.collector.3.1.2.nupkg.sha512"
+    },
+    "Expression.Interaction/3.0.40218": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q05lv/bWH+zJYUpZw5Kap7oHsZZIxhYVokmhOvB5MkPRG9xGMTicuhrZ42ukxBYxSozWocToBHk+k9/IxOkSMg==",
+      "path": "expression.interaction/3.0.40218",
+      "hashPath": "expression.interaction.3.0.40218.nupkg.sha512"
     },
     "Infragistics.WPF.Editors.Trial/24.2.53": {
       "type": "package",

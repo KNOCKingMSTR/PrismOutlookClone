@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrismOutlook.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+589c8e40d697886b7dd372f102e620666cc81f35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51076f59e39a49abcff2ffa8fac0d0a67086208e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrismOutlook.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrismOutlook.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ti9QQbeGkMM=",
+  "dgSpecHash": "AfEoF+iEn98=",
   "success": true,
   "projectFilePath": "C:\\Users\\ayush.chauhan\\source\\repos\\PrismOutlook\\PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ayush.chauhan\\.nuget\\packages\\expression.interaction\\3.0.40218\\expression.interaction.3.0.40218.nupkg.sha512",
     "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.datamanager.trial\\24.2.53\\infragistics.wpf.datamanager.trial.24.2.53.nupkg.sha512",
     "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.datatree.trial\\24.2.53\\infragistics.wpf.datatree.trial.24.2.53.nupkg.sha512",
     "C:\\Users\\ayush.chauhan\\.nuget\\packages\\infragistics.wpf.dragdrop.trial\\24.2.53\\infragistics.wpf.dragdrop.trial.24.2.53.nupkg.sha512",
@@ -18,5 +19,16 @@
     "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\ayush.chauhan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Expression.Interaction 3.0.40218' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Expression.Interaction",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }

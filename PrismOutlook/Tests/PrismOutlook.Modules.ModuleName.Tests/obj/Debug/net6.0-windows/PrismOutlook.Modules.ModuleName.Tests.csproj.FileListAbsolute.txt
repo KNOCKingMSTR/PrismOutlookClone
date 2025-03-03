@@ -130,3 +130,5 @@ C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Tests\PrismOutlook
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Tests\PrismOutlook.Modules.ModuleName.Tests\obj\Debug\net6.0-windows\PrismOutlook.Modules.ModuleName.Tests.pdb
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Tests\PrismOutlook.Modules.ModuleName.Tests\obj\Debug\net6.0-windows\PrismOutlook.Modules.ModuleName.Tests.genruntimeconfig.cache
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Tests\PrismOutlook.Modules.ModuleName.Tests\obj\Debug\net6.0-windows\ref\PrismOutlook.Modules.ModuleName.Tests.dll
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Tests\PrismOutlook.Modules.ModuleName.Tests\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\Tests\PrismOutlook.Modules.ModuleName.Tests\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll

@@ -53,7 +53,7 @@ namespace PrismOutlook.Modules.Mail.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PrismOutlook.Modules.Mail;component/views/maillist.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PrismOutlook.Modules.Mail;V1.0.0.0;component/views/maillist.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\MailList.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

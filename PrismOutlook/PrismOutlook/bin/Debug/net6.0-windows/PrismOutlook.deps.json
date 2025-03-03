@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "PrismOutlook/1.0.0": {
         "dependencies": {
+          "Expression.Interaction": "3.0.40218",
           "Infragistics.WPF.DataTree.Trial": "24.2.53",
           "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
           "Infragistics.WPF.Ribbon.Trial": "24.2.53",
@@ -23,6 +24,18 @@
         },
         "runtime": {
           "PrismOutlook.dll": {}
+        }
+      },
+      "Expression.Interaction/3.0.40218": {
+        "runtime": {
+          "lib/net46/Microsoft.Expression.Interactions.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "3.0.40218.0"
+          },
+          "lib/net46/System.Windows.Interactivity.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "3.0.40218.0"
+          }
         }
       },
       "Infragistics.WPF.DataManager.Trial/24.2.53": {
@@ -275,6 +288,7 @@
       },
       "PrismOutlook.Modules.Calendar/1.0.0": {
         "dependencies": {
+          "Expression.Interaction": "3.0.40218",
           "Infragistics.WPF.DataTree.Trial": "24.2.53",
           "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
           "Infragistics.WPF.Ribbon.Trial": "24.2.53",
@@ -290,6 +304,7 @@
       },
       "PrismOutlook.Modules.Contacts/1.0.0": {
         "dependencies": {
+          "Expression.Interaction": "3.0.40218",
           "Infragistics.WPF.DataTree.Trial": "24.2.53",
           "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
           "Infragistics.WPF.Ribbon.Trial": "24.2.53",
@@ -305,6 +320,7 @@
       },
       "PrismOutlook.Modules.Mail/1.0.0": {
         "dependencies": {
+          "Expression.Interaction": "3.0.40218",
           "Infragistics.WPF.DataTree.Trial": "24.2.53",
           "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
           "Infragistics.WPF.Ribbon.Trial": "24.2.53",
@@ -321,6 +337,7 @@
       },
       "PrismOutlook.Modules.ModuleName/1.0.0": {
         "dependencies": {
+          "Expression.Interaction": "3.0.40218",
           "Infragistics.WPF.OutlookBar.Trial": "24.2.53",
           "Infragistics.WPF.Ribbon.Trial": "24.2.53",
           "Prism.Wpf": "8.1.97",
@@ -360,6 +377,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Expression.Interaction/3.0.40218": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q05lv/bWH+zJYUpZw5Kap7oHsZZIxhYVokmhOvB5MkPRG9xGMTicuhrZ42ukxBYxSozWocToBHk+k9/IxOkSMg==",
+      "path": "expression.interaction/3.0.40218",
+      "hashPath": "expression.interaction.3.0.40218.nupkg.sha512"
     },
     "Infragistics.WPF.DataManager.Trial/24.2.53": {
       "type": "package",

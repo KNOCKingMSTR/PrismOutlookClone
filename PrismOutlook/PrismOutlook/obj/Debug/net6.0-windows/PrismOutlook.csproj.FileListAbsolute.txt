@@ -71,3 +71,5 @@ C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook\obj\D
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook\obj\Debug\net6.0-windows\PrismOutlook.pdb
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook\obj\Debug\net6.0-windows\PrismOutlook.genruntimeconfig.cache
 C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook\obj\Debug\net6.0-windows\ref\PrismOutlook.dll
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\ayush.chauhan\source\repos\PrismOutlook\PrismOutlook\PrismOutlook\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll

@@ -13,8 +13,14 @@ namespace PrismOutlook.Modules.Mail.ViewModels
     public class MailGroupViewModel:BindableBase
     {
         public ObservableCollection<NavigationItem> _items;
+        private DelegateCommand<object> _selectedCommand;
+        public DelegateCommand<object> SelectedCommand =>
+            _selectedCommand ??= new DelegateCommand<object>(ExecuteSelectedCommand);
 
-        public  DelegateCommand<Object> Sel
+        void ExecuteSelectedCommand(object parameter)
+        {
+            
+        }
         public ObservableCollection<NavigationItem> Items
         {
             get => _items;
